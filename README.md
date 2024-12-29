@@ -10,15 +10,15 @@
 
 ###
 
-- 🌱 I’m currently learning **React, Nginx, Amazon AWS**
+- 🌱 I’m currently learning - **React, Nginx, Amazon AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdealiDarugarhwala1402](https://github.com/AbdealiDarugarhwala1402)
 
-- 📫 How to reach me **abdealidarugarhwala.work@gmail.com**
+- 📫 How to reach me - **abdealidarugarhwala.work@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdeali-darugarhwala-898b96250/overlay/1734994326896/single-media-viewer/?profileId=ACoAAD4cinQBO6934aePjXphUBL2rBB-ihkKm1Q](https://www.linkedin.com/in/abdeali-darugarhwala-898b96250/overlay/1734994326896/single-media-viewer/?profileId=ACoAAD4cinQBO6934aePjXphUBL2rBB-ihkKm1Q)
 
-- ⚡ Fun fact **I think my girl is hot**
+- ⚡ Fun fact - **I think my girl is hot**
 
 ###
 <br></br>
