@@ -96,14 +96,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdealiDarugarhwala1402&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AbdealiDarugarhwala1402/count.svg?"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
 </div>
